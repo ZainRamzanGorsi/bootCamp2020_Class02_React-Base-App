@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       Assalam-u-Aliakum ! My name is <b>Zain Ramzan Gorsi</b>.
+      I am studying Electrical Engneering.
     </div>
   );
 }
