@@ -4,9 +4,8 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="center"> 
       Assalam-u-Aliakum ! My name is <b>Zain Ramzan Gorsi</b>.
-      I am studying Electrical Engineering.
     </div>
   );
 }
