@@ -1,6 +1,6 @@
-##Here is the link of my React Base App Website
+## Here is the link of my React Base App Website, Just Click on the bellow link. Thanks!
 
-http://bootcamp-class02.surge.sh/
+[Class No # 02 | React Base App | BootCamp2020](http://bootcamp-class02.surge.sh/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
