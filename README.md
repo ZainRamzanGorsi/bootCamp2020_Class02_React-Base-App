@@ -1,8 +1,10 @@
-## My name is Zain Ramzan Gorsi. 
+## Assalam-u-Aliakum! My name is Zain Ramzan Gorsi. 
 
-#Here is the link of my React Base App Website, Just Click on the bellow link. Thanks!
+#Here is the link of my React Base App Website, Just Click on the bellow link.
 
 [Class No # 02 | React Base App | BootCamp2020](http://bootcamp-class02.surge.sh/)
+
+JazaKallah!
 
 ## Available Scripts
 
