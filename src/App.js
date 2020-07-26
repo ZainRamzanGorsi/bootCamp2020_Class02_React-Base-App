@@ -7,7 +7,7 @@ function App() {
       Assalam-u-Aliakum ! My name is <b>Zain Ramzan Gorsi</b>.
       I am a Electrical Engineer. 
       <br />
-      Mirpur University of Science & Technology(MUST), Mirpur AJK
+      Mirpur University of Science & Technology(MUST),10250 Mirpur AJK
     </div>
   );
 }
