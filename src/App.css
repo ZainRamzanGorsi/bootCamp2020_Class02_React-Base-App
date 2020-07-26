@@ -3,6 +3,9 @@
   font-size: 20px;
   margin-top: 70px;
 }
+div{
+  background-color: #ca9625;
+}
 
 .App-logo {
   height: 40vmin;
