@@ -1,10 +1,12 @@
-## Here is the link of my React Base App Website, Just Click on the bellow link. Thanks!
+## My name is Zain Ramzan Gorsi. 
+
+#Here is the link of my React Base App Website, Just Click on the bellow link. Thanks!
 
 [Class No # 02 | React Base App | BootCamp2020](http://bootcamp-class02.surge.sh/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
