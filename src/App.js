@@ -5,8 +5,8 @@ import './App.css';
 function App() {
   return (
     <div>
-      Assalam-u-Aliakum ! My name is <b>Hamza Ramzan Gorsi</b>.
-      I am studying Agriculture.
+      Assalam-u-Aliakum ! My name is <b>Zain Ramzan Gorsi</b>.
+      I am studying Electrical Engineering.
     </div>
   );
 }
