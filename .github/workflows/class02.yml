@@ -32,8 +32,8 @@ jobs:
     - name: creating build
       run: npm build
      
-    - name: installing surge
+    - name: Installing surge
       run: npm install -g surge
     
     - name: deploying on surge
-      run: surge ./build class02-react-app.surge.sh --token ${{ secrets.CLASS02 }}
+      run: surge ./build class02-react-app.surge.sh --token ${{ secrets.TOKEN2 }}
