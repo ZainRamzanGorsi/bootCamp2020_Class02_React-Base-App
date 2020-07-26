@@ -6,6 +6,7 @@ function App() {
     <div className="App"> 
       Assalam-u-Aliakum ! My name is <b>Zain Ramzan Gorsi</b>.
       I am a Electrical Engineer. 
+      <br />
       Mirpur University of Science & Technology(MUST), Mirpur AJK
     </div>
   );
